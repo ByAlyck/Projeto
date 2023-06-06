@@ -4,7 +4,7 @@ This is a simple word counter made with HTML, CSS, and JavaScript. The purpose o
 
 ## Demo
 
-To see the application in action, you can access it [here](https://example.com).
+To see the application in action, you can access it [here](https://byalyck.github.io/Projeto/).
 
 ## Features
 
