@@ -28,12 +28,6 @@ To see the application in action, you can access it [here](https://example.com).
 The repository is organized as follows:
 
 
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-
 - `index.html`: main HTML file that contains the basic structure of the page and includes the CSS and JavaScript files.
 - `style.css`: CSS file that defines the appearance of the application.
 - `script.js`: JavaScript file that implements the functionality of the word counter.
@@ -45,6 +39,3 @@ Contributions are welcome! If you want to add new features, fix bugs, or improve
 
 Please make sure to follow coding best practices and maintain a consistent code style with the rest of the project.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
