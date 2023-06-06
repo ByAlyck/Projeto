@@ -1,4 +1,4 @@
-# Word Counter
+# 𝗪𝗼𝗿𝗱 𝗖𝗼𝘂𝗻𝘁𝗲𝗿
 
 This is a simple word counter made with HTML, CSS, and JavaScript. The purpose of this application is to count the number of words in a text entered by the user.
 
