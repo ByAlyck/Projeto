@@ -2,7 +2,7 @@
 
 This is a simple word counter made with HTML, CSS, and JavaScript. The purpose of this application is to count the number of words in a text entered by the user.
 
-## Demo
+## 𝗗𝗲𝗺𝗼
 
 To see the application in action, you can access it [here](https://byalyck.github.io/Projeto/).
 
