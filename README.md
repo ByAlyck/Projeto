@@ -6,7 +6,7 @@ This is a simple word counter made with HTML, CSS, and JavaScript. The purpose o
 
 To see the application in action, you can access it [here](https://byalyck.github.io/Projeto/).
 
-## Features
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
 - Real-time word counting: as the user types the text, the counter is automatically updated.
 - Empty word detection: empty words, such as consecutive whitespace, are ignored in the counting.
