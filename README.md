@@ -33,7 +33,7 @@ The repository is organized as follows:
 - `script.js`: JavaScript file that implements the functionality of the word counter.
 - `README.md`: this README file.
 
-## Contributing
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴
 
 Contributions are welcome! If you want to add new features, fix bugs, or improve the documentation, feel free to submit a pull request.
 
