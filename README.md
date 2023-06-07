@@ -12,7 +12,7 @@ To see the application in action, you can access it [here](https://byalyck.githu
 - Empty word detection: empty words, such as consecutive whitespace, are ignored in the counting.
 - Intuitive interface: the simple and clean design makes it easy to use the application.
 
-## How to Use
+## 𝗛𝗼𝘄 𝘁𝗼 𝗨𝘀𝗲
 
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
