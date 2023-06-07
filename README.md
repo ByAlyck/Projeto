@@ -17,7 +17,7 @@ To see the application in action, you can access it [here](https://byalyck.githu
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
 
-## Technologies Used
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
 
 - HTML5: for the basic structure of the page.
 - CSS3: for styling the interface.
