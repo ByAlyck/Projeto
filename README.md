@@ -23,7 +23,7 @@ To see the application in action, you can access it [here](https://byalyck.githu
 - CSS3: for styling the interface.
 - JavaScript: for the functionality of the word counter.
 
-## File Structure
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
 
 The repository is organized as follows:
 
